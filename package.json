@@ -1,0 +1,28 @@
+{
+  "name": "libtest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WilliamCabrera/LibTest.git"
+  },
+  "keywords": [],
+  "author": "william Cabrera",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WilliamCabrera/LibTest/issues"
+  },
+  "homepage": "https://github.com/WilliamCabrera/LibTest#readme",
+  "devDependencies": {
+    "prettier": "^2.8.1",
+    "tslint": "^6.1.3",
+    "tslint-config-prettier": "^1.18.0",
+    "typescript": "^4.9.4"
+  },
+  "files": ["lib/**/*"]
+}
